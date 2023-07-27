@@ -1,6 +1,6 @@
 # BMI Calo
 
-It is a Simple BMI calculator Application for Android. Very simple and minimalistic design with consistent design pattern. Check your BMI today.
+It is a Simple BMI calculator Application for Android. Very simple and minimalistic design with a consistent design pattern. Check your BMI today.
 
 ## App Features
 
@@ -14,10 +14,10 @@ It is a Simple BMI calculator Application for Android. Very simple and minimalis
 
 ## App Interface
 - Screenshot
-![Bmi_Calo_App](https://github.com/subhadipbhowmik/BMI-Calculation-App/assets/57017965/9cadfba1-7297-4214-910e-ce49693a8686)
+![Bmi_Calo_App](https://github.com/subhadipbhowmik/BMI-Calculation-App/assets/57017965/9cadfba1-7297-4214-910e-ce49693a8686 =291x648)
 
 - App Demo
-![BMI_App_Demo](https://github.com/subhadipbhowmik/BMI-Calculation-App/assets/57017965/e961f4a0-84d1-4e8e-a482-ae29acf6e97e)
+![BMI_App_Demo](https://github.com/subhadipbhowmik/BMI-Calculation-App/assets/57017965/e961f4a0-84d1-4e8e-a482-ae29acf6e97e =291x648)
 
 
 ## Tech Stack
