@@ -14,10 +14,10 @@ It is a Simple BMI calculator Application for Android. Very simple and minimalis
 
 ## App Interface
 - Screenshot
-![Bmi_Calo_App](https://github.com/subhadipbhowmik/BMI-Calculation-App/assets/57017965/9cadfba1-7297-4214-910e-ce49693a8686 =291x648)
+![Bmi_Calo_App](https://github.com/subhadipbhowmik/BMI-Calculation-App/assets/57017965/9cadfba1-7297-4214-910e-ce49693a8686 =291*648)
 
 - App Demo
-![BMI_App_Demo](https://github.com/subhadipbhowmik/BMI-Calculation-App/assets/57017965/e961f4a0-84d1-4e8e-a482-ae29acf6e97e =291x648)
+![BMI_App_Demo](https://github.com/subhadipbhowmik/BMI-Calculation-App/assets/57017965/e961f4a0-84d1-4e8e-a482-ae29acf6e97e =291*648)
 
 
 ## Tech Stack
